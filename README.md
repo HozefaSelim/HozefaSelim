@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone, I'm HUZEYFE EL SELIM</h1>
-<h3 align="center">I'm studying Computer Engineering at Fırat University and Graduated form Anadolu University as Web Desginer (Front End)</h3>
+<h3 align="center">I'm studying Computer Engineering at Fırat University and Web Desginer (Front End)</h3>
 
 - 🔭 My Last Project [CYBROG-STORE](https://6425a54715ff3e005b0b7436--rainbow-croissant-6ed9af.netlify.app/)
 

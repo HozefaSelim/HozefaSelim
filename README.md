@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone, I'm HUZEYFE EL SELIM</h1>
 <h3 align="center">I'm studying Computer Engineering at Fırat University and Web Desginer (Front End)</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 - 🔭 My Last Project [CYBROG-STORE](https://6425a54715ff3e005b0b7436--rainbow-croissant-6ed9af.netlify.app/)
 
 - 💬 Ask me about [  java - c# - java script - React ]

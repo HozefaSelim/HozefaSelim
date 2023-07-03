@@ -3,7 +3,7 @@
 
 - 🔭 My Last Project [CYBROG-STORE](https://6425a54715ff3e005b0b7436--rainbow-croissant-6ed9af.netlify.app/)
 
-- 💬 Ask me about **java - c# - java script - React**
+- 💬 Ask me about ****java - c# - java script - React****
 
 - 📫 How to reach me **hothefa180@gmail.com**
 

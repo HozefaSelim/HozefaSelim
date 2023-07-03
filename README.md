@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HUZEYFE EL SELIM</h1>
 <h3 align="center">I'm studying Computer Engineering at Fırat University and Web Desginer (Front End)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hozefaselim" alt="hozefaselim" /></a> </p>
-
 - 🔭 My Last Project [CYBROG-STORE](https://6425a54715ff3e005b0b7436--rainbow-croissant-6ed9af.netlify.app/)
 
 - 💬 Ask me about **java - c# - java script - React**
@@ -23,4 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hozefaselim&show_icons=true&locale=en&layout=compact" alt="hozefaselim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hozefaselim&" alt="hozefaselim" /></p>
-س

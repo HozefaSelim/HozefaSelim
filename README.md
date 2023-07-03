@@ -1,7 +1,5 @@
-[<h1 align="center">Hi 👋, I'm HUZEYFE EL SELIM</h1>
+<h1 align="center">Hi 👋, I'm HUZEYFE EL SELIM</h1>
 <h3 align="center">I'm studying Computer Engineering at Fırat University and Web Desginer (Front End)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hozefaselim&label=Profile%20views&color=0e75b6&style=flat" alt="hozefaselim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hozefaselim" alt="hozefaselim" /></a> </p>
 
@@ -25,4 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hozefaselim&show_icons=true&locale=en&layout=compact" alt="hozefaselim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hozefaselim&" alt="hozefaselim" /></p>
-](https://discord.com/channels/@me)https://discord.com/channels/@me
+س

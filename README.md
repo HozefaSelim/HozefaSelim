@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm studying Computer Engineering at Fırat University and Web Desginer (Front End)</h3>
 
-- 🔭 My Last Project [CYBROG-STORE](https://6425a54715ff3e005b0b7436--rainbow-croissant-6ed9af.netlify.app/)
+- 🔭 My Last Project [SCHOOL - APP](https://github.com/HozefaSelim/School-App)
 
 - 💬 Ask me about [  java - c# - java script - React ]
 

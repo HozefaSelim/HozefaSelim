@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone, I'm HUZEYFE EL SELIM</h1>
 <img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<h3 align="center"> Computer Engineer and Full Developer</h3>
+<h3 align="center"> Computer Engineer and Full Stack Developer</h3>
 
 - 🔭 My Last Project [SCHOOL - APP](https://github.com/HozefaSelim/School-App)
 
@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> 
   </a> 
 </p>
 

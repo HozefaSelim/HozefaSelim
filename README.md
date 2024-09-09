@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
   </a> 
 </p>
 

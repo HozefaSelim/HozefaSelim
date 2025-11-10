@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone, I'm HUZEYFE EL SELIM</h1>
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 
 <h3 align="center"> Computer Engineer and Full Stack Developer</h3>
 
